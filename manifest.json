@@ -1,13 +1,13 @@
 {
-  "code": 7,
-  "version": "2.4",
-  "notes": "Mises à jour automatiques : Plume se met à jour tout seul sur Windows et en un geste sur Android.",
+  "code": 8,
+  "version": "2.5",
+  "notes": "Documents texte façon Word (ruban, polices, couleurs, styles, tableaux, table des matières, notes, en-tête/pied, export .docx) et IA au choix : Claude, ChatGPT, Gemini, Mistral, Groq, OpenRouter, DeepSeek, Grok, Ollama…",
   "date": "2026-10-20",
   "android": {
     "apk": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume.apk"
   },
   "windows": {
-    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/win/Plume-Setup-2.4.0.exe",
+    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/win/Plume-Setup-2.5.0.exe",
     "portable": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume-portable.exe"
   }
 }
