@@ -1,13 +1,13 @@
 {
-  "code": 6,
-  "version": "2.3",
-  "notes": "Nouvelles couvertures de carnets, documents texte repensés (titre dans la page, styles, aperçus).",
+  "code": 7,
+  "version": "2.4",
+  "notes": "Mises à jour automatiques : Plume se met à jour tout seul sur Windows et en un geste sur Android.",
   "date": "2026-10-20",
   "android": {
     "apk": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume.apk"
   },
   "windows": {
-    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume-Setup.exe",
+    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/win/Plume-Setup-2.4.0.exe",
     "portable": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume-portable.exe"
   }
 }

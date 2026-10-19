@@ -1,0 +1,8 @@
+version: 2.4.0
+files:
+  - url: Plume-Setup-2.4.0.exe
+    sha512: cWGrHCPg0v9duNu1TGT9i1DnZN6YcFmTGxa6WajY++ShCcPywgamLkiso6cI+4uVbyHBlne4jVrdDe+XQL+u7g==
+    size: 82803914
+path: Plume-Setup-2.4.0.exe
+sha512: cWGrHCPg0v9duNu1TGT9i1DnZN6YcFmTGxa6WajY++ShCcPywgamLkiso6cI+4uVbyHBlne4jVrdDe+XQL+u7g==
+releaseDate: '2026-10-19T23:29:35.711Z'
