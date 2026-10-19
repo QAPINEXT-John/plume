@@ -1,0 +1,13 @@
+{
+  "code": 5,
+  "version": "2.2",
+  "notes": "Nouvelle icône, comptes et synchronisation entre appareils.",
+  "date": "2026-10-20",
+  "android": {
+    "apk": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume.apk"
+  },
+  "windows": {
+    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume-Setup.exe",
+    "portable": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume-portable.exe"
+  }
+}
