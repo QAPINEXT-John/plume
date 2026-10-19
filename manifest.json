@@ -1,7 +1,7 @@
 {
-  "code": 5,
-  "version": "2.2",
-  "notes": "Nouvelle icône, comptes et synchronisation entre appareils.",
+  "code": 6,
+  "version": "2.3",
+  "notes": "Nouvelles couvertures de carnets, documents texte repensés (titre dans la page, styles, aperçus).",
   "date": "2026-10-20",
   "android": {
     "apk": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume.apk"

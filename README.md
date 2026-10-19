@@ -4,7 +4,7 @@
 
 Prise de notes manuscrites façon GoodNotes : carnets, PDF annotables, tableaux blancs, documents texte, audio synchronisé, comptes et synchronisation entre appareils. Fonctionne hors connexion.
 
-**Version actuelle : 2.2** — Nouvelle icône, comptes et synchronisation entre appareils.
+**Version actuelle : 2.3** — Nouvelles couvertures de carnets, documents texte repensés (titre dans la page, styles, aperçus).
 
 | Appareil | Téléchargement |
 |---|---|
