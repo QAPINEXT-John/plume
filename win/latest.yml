@@ -1,8 +1,8 @@
-version: 2.6.0
+version: 2.8.0
 files:
-  - url: Plume-Setup-2.6.0.exe
-    sha512: WohNCSIS3cWCG824cwJ9T4MoRQJVseer/yKPxQKjyYQNqjbQTWOH544Vnku4vr1dly0dFvEVoHMfIvKlpH2Uww==
-    size: 82825866
-path: Plume-Setup-2.6.0.exe
-sha512: WohNCSIS3cWCG824cwJ9T4MoRQJVseer/yKPxQKjyYQNqjbQTWOH544Vnku4vr1dly0dFvEVoHMfIvKlpH2Uww==
-releaseDate: '2026-10-20T00:05:11.474Z'
+  - url: Plume-Setup-2.8.0.exe
+    sha512: vOz+KBXhSnacj2q+KoWb7mFbwZSuGA6VbZctB7TN9zJ1X6h8zq7Bm4WrtKea05thmaqrE3K0XKOrA9PaR+HN1Q==
+    size: 82827149
+path: Plume-Setup-2.8.0.exe
+sha512: vOz+KBXhSnacj2q+KoWb7mFbwZSuGA6VbZctB7TN9zJ1X6h8zq7Bm4WrtKea05thmaqrE3K0XKOrA9PaR+HN1Q==
+releaseDate: '2026-10-20T00:27:53.699Z'

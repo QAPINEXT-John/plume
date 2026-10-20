@@ -1,13 +1,13 @@
 {
-  "code": 9,
-  "version": "2.6",
-  "notes": "Plume se relance tout seul après une mise à jour, et confirme qu’elle s’est bien installée.",
+  "code": 11,
+  "version": "2.8",
+  "notes": "Choix du modèle d’IA : liste des modèles proposés et de ceux de ton compte. Mises à jour Windows plus sûres.",
   "date": "2026-10-20",
   "android": {
     "apk": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume.apk"
   },
   "windows": {
-    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/win/Plume-Setup-2.6.0.exe",
+    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/win/Plume-Setup-2.8.0.exe",
     "portable": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume-portable.exe"
   }
 }
