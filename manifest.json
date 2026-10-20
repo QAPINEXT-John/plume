@@ -1,13 +1,13 @@
 {
-  "code": 8,
-  "version": "2.5",
-  "notes": "Documents texte façon Word (ruban, polices, couleurs, styles, tableaux, table des matières, notes, en-tête/pied, export .docx) et IA au choix : Claude, ChatGPT, Gemini, Mistral, Groq, OpenRouter, DeepSeek, Grok, Ollama…",
+  "code": 9,
+  "version": "2.6",
+  "notes": "Plume se relance tout seul après une mise à jour, et confirme qu’elle s’est bien installée.",
   "date": "2026-10-20",
   "android": {
     "apk": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume.apk"
   },
   "windows": {
-    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/win/Plume-Setup-2.5.0.exe",
+    "setup": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/win/Plume-Setup-2.6.0.exe",
     "portable": "https://raw.githubusercontent.com/QAPINEXT-John/plume/main/releases/Plume-portable.exe"
   }
 }
